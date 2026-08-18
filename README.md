@@ -3,15 +3,6 @@
 אפליקציה שמנטרת תיקיות שתבחר ומוחקת אוטומטית כל תיקייה חדשה שנוצרת
 בתוכן - למשל תיקיית ה-Download או Screenshots.
 
-## איך לבנות APK
-
-1. פתח את התיקייה `FolderCleaner/` ב-Android Studio (File → Open).
-2. תן ל-Gradle לסנכרן (זה יקרה אוטומטית, קח כמה דקות בפעם הראשונה).
-3. חבר מכשיר אנדרואיד (או הפעל אמולטור) ולחץ Run ▶, או
-   Build → Build Bundle(s)/APK(s) → Build APK(s) כדי לקבל קובץ APK מותקן.
-4. במקום Android Studio, אפשר גם להעלות את הפרויקט הזה ל-GitHub ולהריץ
-   אותו דרך Claude Code on the web (claude.ai/code) - תגיד לו "build a
-   debug APK" והוא יריץ את ה-build בשבילך בענן.
 
 ## איך זה עובד
 
